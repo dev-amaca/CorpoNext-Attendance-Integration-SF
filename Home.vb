@@ -1,20 +1,8 @@
-﻿Imports System.Net
+﻿Imports System.Data.OleDb
 Imports System.Net.Http
 Imports System.Net.Http.Headers
 Imports System.Text
 Imports Newtonsoft.Json
-Imports System.Data.OleDb
-Imports zkemkeeper
-Imports System.IO
-Imports System.Diagnostics.Metrics
-Imports System.Windows.Forms.VisualStyles.VisualStyleElement.Button
-Imports System.Runtime.Intrinsics.Arm
-Imports System.Threading
-Imports System.Reflection.Emit
-Imports System.Timers
-Imports System.Reflection.Metadata
-Imports System.Buffers
-Imports Newtonsoft
 
 
 Public Class Home
